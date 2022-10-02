@@ -1,3 +1,4 @@
 RESOLUSI
 
-Mengeksekusi program MRP
+Mengeksekusi program MENRIF di tempat yang saya tentukan
+Mengeksekusi program MELRIF minimal 2 tahun setelah program MENRIF dieksekusi dan maksimal 3 tahun setelah program MENRIF dieksekusi
