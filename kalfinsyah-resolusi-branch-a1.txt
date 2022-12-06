@@ -1,5 +1,4 @@
 RESOLUSI
 
-Mengeksekusi program MRP di tempat yang saya tentukan
 Mengeksekusi program MR saat kedua pihak siap
 Mengeksekusi program (MN)R kedua pihak siap, pihak utama harus lebih siap
